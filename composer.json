@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Centosquare\\Contact\\": "src/"
+            "Centosquared\\Contact\\": "src/"
         }
     },
     "authors": [
