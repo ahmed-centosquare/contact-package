@@ -1,6 +1,6 @@
 <?php
 
-namespace Centosquare\Contact\Mail;
+namespace Centosquared\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;

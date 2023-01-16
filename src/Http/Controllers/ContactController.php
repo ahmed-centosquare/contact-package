@@ -1,10 +1,10 @@
 <?php
 
-namespace Centosquare\Contact\Http\Controllers;
+namespace Centosquared\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
-use Centosquare\Contact\Mail\ContactMailable;
-use Centosquare\Contact\Models\Contact;
+use Centosquared\Contact\Mail\ContactMailable;
+use Centosquared\Contact\Models\Contact;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
