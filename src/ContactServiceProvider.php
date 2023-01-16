@@ -1,6 +1,6 @@
 <?php
 
-namespace Centosquare\Contact;
+namespace Centosquared\Contact;
 
 use Illuminate\Support\ServiceProvider;
 
